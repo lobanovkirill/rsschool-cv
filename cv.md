@@ -62,3 +62,15 @@ function duplicateEncode(word){
 - Figma (for web development)
 - Editor: VSCode
 - OS: MacOS, Linux (Ubuntu)
+
+## Experience
+
+I'm created 2 medium projects:
+
+1. Mini ERP system for one business process in company [GIP Electro](http://lk.gipelektro.ru) - developed system in 2 months
+2. Draw system for government Ufa city - developed system in 5 days
+
+## Languages
+
+- **Russian** (native speaker)
+- **English** (A2 level)
