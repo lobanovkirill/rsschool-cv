@@ -50,3 +50,15 @@ function duplicateEncode(word){
 }
 
 ```
+
+## Skills and Proficiency
+
+- HTML5, CSS3 (Bootstrap Framework)
+- JavaScript Basics
+- PHP (basic knowledge)
+- Python (basic knowledge)
+- SQL (basic knowledge - SELECT, INSERT, UPDATE, CREATE etc.)
+- Git (remote service GitHub)
+- Figma (for web development)
+- Editor: VSCode
+- OS: MacOS, Linux (Ubuntu)
