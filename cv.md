@@ -6,3 +6,14 @@
 - **Telegram**: [@lobanovkirill_ru](https://t.me/lobanovkirill_ru)
 - **Email**: [kirill@lobanovkirill.ru](mailto:kirill@lobanovkirill.ru)
 - **GitHub**: [https://github.com/lobanovkirill](https://github.com/lobanovkirill)
+
+## About Me
+
+I'm 31 years old, sometimes part time work like freelancer web developer. I have experience working with extra tight deadlines for software development.
+
+## My strengths
+
+- Quick learner
+- Team player
+- Diligence
+- Fast work with deadlines
