@@ -1,2 +1,1 @@
-# rsschool-cv
-First homework from RS School
+https://lobanovkirill.github.io/rsschool-cv/
